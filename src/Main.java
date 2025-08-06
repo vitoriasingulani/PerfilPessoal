@@ -33,6 +33,8 @@ public class Main {
              maiorIdadetrue = true;
         }
 
+        double imc = peso / (altura*altura);
+
 
 
         System.out.println("Idade: " + idade);
@@ -44,6 +46,7 @@ public class Main {
         System.out.println("Genero: " + genero);
         System.out.println("Casado: " + casado);
         System.out.println("Maior de idade: " + maiorIdadetrue);
+        System.out.print("IMC aproximado: " + imc);
 
 
 
