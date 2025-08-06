@@ -48,6 +48,8 @@ public class Main {
         System.out.println("Maior de idade: " + maiorIdadetrue);
         System.out.print("IMC aproximado: " + imc);
 
+        System.out.println("teste");
+
 
 
     }
