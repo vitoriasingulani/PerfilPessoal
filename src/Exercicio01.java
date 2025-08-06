@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Exercicio01 {
+    public static void Exercicio01(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite a sua idade: ");
