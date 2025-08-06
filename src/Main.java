@@ -47,10 +47,5 @@ public class Main {
         System.out.println("Casado: " + casado);
         System.out.println("Maior de idade: " + maiorIdadetrue);
         System.out.print("IMC aproximado: " + imc);
-
-        System.out.println("teste 2");
-
-
-
     }
 }
